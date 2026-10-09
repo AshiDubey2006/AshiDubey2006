@@ -8,10 +8,9 @@ Usually learning something, building something, or wondering why the code worked
 
 ---
 
-<p align="right">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=AshiDubey2006&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
----
 
 ### Skills 
 
