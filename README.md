@@ -1,15 +1,19 @@
 # Heelloo!, I'm Ashi Dubey 
  
-### a little about me
+### About Me
  
-Computer Science Engineering student, interested in software engineering, machine learning, and building systems that solve real-world problems.
- 
-I like working across the stack, from designing applications and APIs to experimenting with computer vision and machine learning.
+Computer Science Engineering student who likes turning random “what if?” thoughts into actual projects. Interested in software development, AI/ML, and figuring out how things work under the hood.
 
+Usually learning something, building something, or wondering why the code worked five minutes ago
 
 ---
 
-### 🧩 things i work with
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=AshiDubey2006&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+---
+
+### Skills 
 
 **Languages**
 
@@ -42,16 +46,13 @@ I like working across the stack, from designing applications and APIs to experim
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-
-### currently curious about
-
-- intelligent systems & computer vision
-- turning interesting ideas into useful software
-- the things i haven't learned to build yet
 
 ---
 
-<p align="center">
-  <i>more experiments, fewer assumptions.</i>
-</p>
+### Let's connect 
+Got an interesting opportunity, a cool project, or an idea worth exploring? (or even if u just wanna hire me ) I'd love to hear about it. Always happy to connect, collaborate, and talk tech.
+
+what about something like this?
+ 
+- **LinkedIn:** [linkedin.com/in/ashi-dubey-9aa60b356](https://in.linkedin.com/in/ashi-dubey-9aa60b356)
+- **Email:** [ashidubey2020@gmail.com](mailto:ashidubey2020@gmail.com)
