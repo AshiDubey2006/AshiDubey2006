@@ -1,26 +1,11 @@
-
-<h1 align="center">hey, i'm ashi.</h1>
-
-<p align="center">
-  <i>not everything is documented; some things are still compiling.</i>
-</p>
-
-<p align="center">
-  engineering student · curious mind · occasional overthinker
-</p>
-
----
-
+# Heelloo!, I'm Ashi Dubey 
+ 
 ### a little about me
+ 
+Computer Science Engineering student, interested in software engineering, machine learning, and building systems that solve real-world problems.
+ 
+I like working across the stack, from designing applications and APIs to experimenting with computer vision and machine learning.
 
-I'm interested in how things work, why they work, and
-what happens when you try something a little differently.
-
-I enjoy exploring ideas, building things, and figuring
-stuff out along the way — especially where software
-meets real-world problems.
-
-Still exploring. Still building. Still compiling.
 
 ---
 
