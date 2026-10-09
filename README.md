@@ -49,7 +49,7 @@ Usually learning something, building something, or wondering why the code worked
 ---
 
 ### Let's connect 
-Got an interesting opportunity, a cool project, or an idea worth exploring? (or even if u just wanna hire me ) I'd love to hear about it. Always happy to connect, collaborate, and talk tech.
+Got an interesting opportunity, a cool project, or an idea worth exploring? (or even if u just wanna hire me 👀 ) I'd love to hear about it. Always happy to connect, collaborate, and talk tech.
 
 what about something like this?
  
